@@ -1,4 +1,9 @@
 pandas 
 numpy
 seaborn
--e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+# -e . 
+# -e . commented because i don't want to install packages again and again 
